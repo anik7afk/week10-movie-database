@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="100dp"
+    android:viewportWidth="80"
+    android:viewportHeight="100">
+    <!-- Background -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M0,0h80v100H0z" />
+    <!-- Film icon -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M28,30h24v24H28zM32,34v16h16V34H32zM36,38h8v8h-8z" />
+    <!-- Film strip holes -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M30,62h20v4H30z" />
+</vector>
